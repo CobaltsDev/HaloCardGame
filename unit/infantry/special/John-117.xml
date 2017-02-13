@@ -1,4 +1,4 @@
-<Special name='John-117' rank='MCPO' type='Reclaimer'>
+<Special name='John-117' rank='MCPO'>
   <Health></Health>
   <Weapon>Assault Rifle</Weapon>
   <Weapon>Battle Rifle</Weapon>
@@ -8,4 +8,5 @@
   <Grenade>Spike</Grenade>
   <Grenade>Pulse</Grenade>
   <Grenade>Firebomb</Grenade>
+  <Reclaimer/>
 </Special>
