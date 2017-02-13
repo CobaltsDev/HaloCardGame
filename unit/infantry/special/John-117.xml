@@ -1,0 +1,11 @@
+<Special name='John-117' rank='MCPO' type='Reclaimer'>
+  <Health></Health>
+  <Weapon>Assault Rifle</Weapon>
+  <Weapon>Battle Rifle</Weapon>
+  <Weapon>M6 Magnum</Weapon>
+  <Grenade>Fragmentation</Grenade>
+  <Grenade>Plasma</Grenade>
+  <Grenade>Spike</Grenade>
+  <Grenade>Pulse</Grenade>
+  <Grenade>Firebomb</Grenade>
+</Special>

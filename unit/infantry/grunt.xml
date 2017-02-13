@@ -1,0 +1,5 @@
+<Infantry name='Grunt' rank='Minor'>
+  <Health></Health>
+  <Weapon>Plasma Pistol</Weapon>
+  <Grenade>Plasma</Grenade>
+</Infantry>

@@ -1,0 +1,5 @@
+<Vehical name='Scorpion' owner='UNSC' crew='1+4 1+1+4'>
+  <Health></Health>
+  <Weapon>Cannon</Weapon>
+  <Weapon>Machine Gun</Weapon>
+</Vehical>

@@ -1,0 +1,6 @@
+<Aircraft name='Enforcer'>
+  <Health></Health>
+  <Weapon>Needles</Weapon>
+  <Weapon>Missiles</Weapon>
+  <Weapon>Invisible Beam</Weapon>
+</Aircraft>
