@@ -1,0 +1,5 @@
+<Vehicle name="Wraith" owner="Covenant" crew="1+1+0">
+  <Health></Health>
+  <Weapon>Plasma Mortar</Weapon>
+  <Weapon>Plasma Turret</Weapon>
+</Vehicle>
