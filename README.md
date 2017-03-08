@@ -1,7 +1,7 @@
 # HaloCardGame
 XML files for a Halo based card game  
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC-BY-SA" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="Creative Commons Attribution-ShareAlike 4.0 International License" /></a><br />The data (XML) part of this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. The other parts of this work is liscenced under the GNU AGPL V3.0.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="CC-BY-SA" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="Creative Commons Attribution-ShareAlike 4.0 International License" /></a><br />The data (XML) part of this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. The other parts of this work is liscenced under the GNU GPL V3.0.
 
 ## Types of Cards
 - Unit
