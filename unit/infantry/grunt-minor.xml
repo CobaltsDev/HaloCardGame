@@ -1,4 +1,4 @@
-<Infantry name='Grunt' rank='Minor'>
+<Infantry name='Grunt' rank='Minor' species='Unggoy'>
   <Health></Health>
   <Weapon>Plasma Pistol</Weapon>
   <Grenade>Plasma</Grenade>
