@@ -19,7 +19,7 @@ Standard infantry includes Marines, Sangheili, Sentinals and Sentinal Majors, an
 #### Special
 Special infantry contains leaders, such as John-117, Thel 'Vadam(ee), Rtas 'Vadum(ee), and Sargeant Major Avery Johnson.
 ### Aircraft
-Aircraft includes any flying vehicles, including the Enforcer (for balancing)
+Aircraft includes any flying vehicles, including the Enforcer (for balancing). All other sentinels are infantry, as otherwise the Forerunners would have no infantry.
 ### Vehical
 Vehicals include all vehicals, such as the Scorpion or the Ghost
 ## Support
