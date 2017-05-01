@@ -6,7 +6,7 @@ The data (XML) part of this work is licensed under a [Creative Commons Attributi
 ## Types of Cards
 - Unit
   - Infantry
-    -Special
+    - Special
   - Aircraft
   - Vehical
 - Support
