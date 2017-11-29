@@ -1,0 +1,5 @@
+<Aircraft name="Banshee">
+  <Health></Health>
+  <Weapon>Class-2 Energy Gun</Weapon>
+  <Weapon>Class-2 Projectile Cannon</Weapon>
+</Aircraft>

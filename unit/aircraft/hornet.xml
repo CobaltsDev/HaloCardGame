@@ -1,0 +1,6 @@
+<Aircraft name="Hornet">
+  <Health></Health>
+  <Weapon>GUA-23/A Heavy Autocannons</Weapon>
+  <Weapon>Class-2 Guided Munition Launch System</Weapon>
+  <Weapon>Twin Missle Launcher</Weapon>
+</Aircraft>

@@ -1,0 +1,5 @@
+<Aircraft name="Hornet">
+  <Health></Health>
+  <Weapon>GUA-23/AW/Linkless Feed Autocannon</Weapon>
+  <Weapon>M6 Grindell/Galilean Ninlinear Cannon</Weapon>
+</Aircraft>
