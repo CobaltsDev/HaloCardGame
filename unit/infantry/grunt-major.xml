@@ -1,0 +1,5 @@
+<Infantry name='Grunt' rank='Major' species='Unggoy'>
+  <Health></Health>
+  <Weapon>Needler</Weapon>
+  <Grenade>Plasma</Grenade>
+</Infantry>
